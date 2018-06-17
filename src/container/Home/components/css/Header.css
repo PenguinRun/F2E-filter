@@ -1,0 +1,42 @@
+.header-area {
+    background: #7828B4;
+    display: flex;
+    height: 92px;
+}
+
+.logo {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-left: 78px;
+    margin-right: 149px;
+    font-size: 36px;
+    color: #FFFFFF;
+    text-align: left;
+    font-weight: bold;
+}
+
+.search-area {
+    margin-top: 37px;
+    padding: 0;
+    height: 30px;
+    width:388px;
+    display: flex;
+    border-bottom: 1px solid #FFFFFF;
+}
+
+.search-logo {
+    padding: 0;
+    height: 0;
+    margin-right: 20px;
+    font-size: 22px;
+    color: #FFFFFF;
+}
+
+.search-input-area {
+    padding: 0;
+    height: 0;
+    font-size: 20px;
+    font-style: italic;
+    color: #ffffff;
+    opacity: 0.5;
+}

@@ -1,0 +1,28 @@
+.speech-area {
+    margin-left: 42px;
+    margin-top: 24px;
+    text-align: left;
+}
+
+.showing-title{
+    font-size: 24px;
+    color: #000000;
+}
+
+.showing-number{
+    font-size: 24px;
+    color: #7828B4;
+    font-weight: bold;
+}
+
+.class-area {
+    display: inline-block;
+    margin-top:8px;
+    margin-right: 8px;
+    padding: 8px 16px 8px 16px;
+    border-radius: 50px;
+    border: 1px solid #7828B4;
+    font-style: italic;
+    color: #7828B4;
+    cursor: pointer;
+}

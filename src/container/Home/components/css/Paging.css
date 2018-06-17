@@ -1,0 +1,15 @@
+.paging-area {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.paging-box {
+    height:40px;
+    width:40px;
+    color: #9013FE;
+}
+
+.paging-box:hover{
+    color: #ffffff;
+    background: #9013FE;
+}
